@@ -1,0 +1,38 @@
+/* styles/About.module.css */
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.subtitle {
+  color: #333;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+.text {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+.list {
+  list-style: disc;
+  padding-left: 1.5rem;
+}
+
+.listItem {
+  margin-bottom: 1rem;
+  color: #444;
+}
